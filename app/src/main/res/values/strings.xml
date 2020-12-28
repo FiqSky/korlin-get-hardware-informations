@@ -16,4 +16,9 @@
     <string name="host">HOST: </string>
     <string name="fingerprint">FINGERPRINT: </string>
     <string name="versioncode">VERSION CODE: </string>
+    <string name="bootloader">BOOTLOADER: </string>
+    <string name="device">"DEVICE: "</string>
+    <string name="hardware">"HARDWARE: "</string>
+    <string name="product">"PRODUCT: "</string>
+    <string name="securitypatch">"SECURITY PATCH: "</string>
 </resources>
