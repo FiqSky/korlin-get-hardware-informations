@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">korlinhardwareinformations</string>
     <string name="get_information">Get Information</string>
-    <string name="hard_soft_info">Hardware and Software Information</string>
+    <string name="hard_soft_info">Hardware Information</string>
     <string name="serial">SERIAL: </string>
     <string name="model">MODEL: </string>
     <string name="id">ID: </string>
